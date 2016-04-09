@@ -1,0 +1,28 @@
+{
+	"signs": [{
+		"latitude": "40.727537",
+		"longitude": "-74.065484",
+		"dayofweek": "MON & THURS", // Should it be an array of numbers 1-7? Create a .NET Day of week from it.
+		"starttime": "3pm",
+		"endtime": "5pm"
+	}, {
+		"latitude": "40.727405",
+		"longitude": "-74.065266",
+		"dayofweek": "Monday",
+		"starttime": "10am",
+		"endtime": "12am"
+	}, {
+		"latitude": "40.727245",
+		"longitude": "-74.065004",
+		"dayofweek": "Thursday",
+		"starttime": "8am",
+		"endtime": "3pm"
+	}],
+	"meters": [{
+		"latitude": "40.726451",
+		"longitude": "-74.063540"
+	}, {
+		"latitude": "40.727452",
+		"longitude": "-74.064541"
+	}]
+}
